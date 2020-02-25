@@ -1,10 +1,11 @@
-**Note:** *I fulfilled the optional challenge in so far as my calculateTax() method will take any amount of brackes at any tax rate and calculate the final tax, but i didnt bother making intake methods.  Brackets are hardcoded in main function.
+**Note:** *I fulfilled the optional challenge in so far as my calculateTax() method will take any amount of brackets at any tax rate and calculate the final tax, but i didnt bother making intake methods.  Brackets are hardcoded in main function.
 
 *May come back to update intake, but or-- I won't.*
 
-[2019-07-15] Challenge #379 [Easy] Progressive taxation
 
-Challenge
+**[2019-07-15] Challenge #379 [Easy] Progressive taxation**
+
+**Challenge**
 The nation of Examplania has the following income tax brackets:
 
 income cap marginal tax rate
@@ -25,7 +26,7 @@ tax(12000) => 200
 tax(56789) => 8697
 tax(1234567) => 473326
 
-Optional improvement
+**Optional improvement**
 One way to improve your code is to make it easy to swap out different tax brackets, for instance by having the table in an input file. If you do this, you may assume that both the income caps and marginal tax rates are in increasing order, the highest bracket has no income cap, and all tax rates are whole numbers of percent (no more than two decimal places).
 
 However, because this is an Easy challenge, this part is optional, and you may hard code the tax brackets if you wish.
