@@ -1,6 +1,6 @@
 **Note:** *I fulfilled the optional challenge in so far as my calculateTax() method will take any amount of brackets at any tax rate and calculate the final tax, but i didnt bother making intake methods.  Brackets are hardcoded in main function.*
 
-*May come back to update intake, but or-- I won't.*
+*May come back to update intake--*
 
 
 **[2019-07-15] Challenge #379 [Easy] Progressive taxation**
